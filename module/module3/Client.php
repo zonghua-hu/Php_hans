@@ -9,14 +9,21 @@ class Client
 {
     public function main()
     {
+        $result_ben = [];
+        $result_bwm = [];
+
         $ben = new Benx();
         $bwm = new BWM();
 
         $driver_ben = new Driver($ben);
-        $result_ben = $driver_ben->drive();
+        if ($driver_ben) {
+            $result_ben = $driver_ben->drive();
+        }
 
         $driver_bwm = new Driver($bwm);
-        $result_bwm = $driver_bwm->drive();
+        if ($driver_bwm) {
+            $result_bwm = $driver_bwm->drive();
+        }
 
         print_r($result_ben,$result_bwm);
     }
