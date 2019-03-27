@@ -24,8 +24,7 @@ class Client
         if ($driver_bwm) {
             $result_bwm = $driver_bwm->drive();
         }
-
-        print_r($result_ben,$result_bwm);
+        return [$result_ben,$result_bwm];
     }
 
 }

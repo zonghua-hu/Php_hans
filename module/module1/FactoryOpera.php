@@ -11,7 +11,7 @@ class FactoryOpera
     public static $operation = '';
     public static $opobj;
     /**
-     *
+     *策略模式方法
      * @param $strings
      * @return OperaAdd|OperaDiv|OperaMul|OperaSub
      * @author Hans
