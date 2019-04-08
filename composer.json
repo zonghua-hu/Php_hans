@@ -1,0 +1,8 @@
+{
+  "require": {
+    "matyhtf/swoole_framework": "dev-master"
+  },
+  "require-dev": {
+    "eaglewu/swoole-ide-helper": "dev-master"
+  }
+}
