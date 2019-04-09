@@ -8,13 +8,13 @@
 
 abstract class HummerModel
 {
-    public abstract function start();
+    protected abstract function start();
 
-    public abstract function stop();
+    protected abstract function stop();
 
-    public abstract function alarm();
+    protected abstract function alarm();
 
-    public abstract function engineBoom();
+    protected abstract function engineBoom();
 
     final function run()
     {
