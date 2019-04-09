@@ -16,7 +16,7 @@ abstract class HummerModel
 
     public abstract function engineBoom();
 
-    public function run()
+    final function run()
     {
         $this->start();
         $this->engineBoom();
