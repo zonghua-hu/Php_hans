@@ -13,8 +13,13 @@ class GameCilent
 
     public function __construct()
     {
-        $this->user = $_GET['user'];
-        $this->pwd  = $_GET['pwd'];
+        self::setInfo();
+    }
+
+    private function setInfo()
+    {
+        $this->user = isset($_GET['user'])??'admin';
+        $this->pwd  = isset($_GET['pwd'])??'admin0012';
     }
 
     public function main()
