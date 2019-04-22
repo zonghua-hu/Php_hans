@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/module/example7/AdvTemplate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example7/Mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example7/MailClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example8/AbstractColleague.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example8/AbstractMediator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example8/ComputerClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example8/Mediator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example8/PurChase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example8/Sale.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example8/Stock.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example9/AddRequirementCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example9/CodeGroup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example9/CommClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example9/Command.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example9/DeletePageCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example9/Invoker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example9/PageGroup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example9/RequirementGroup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/examlple11/FatherClient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/examlple11/FouthGradeSchoolReport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/examlple11/GradeReport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/examlple11/SchoolReport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/example10/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/example10/Husband.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/example10/IWomen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/example10/Women.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,38 +24,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Command.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example9/Command.php">
+      <file leaf-file-name="SchoolReport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/examlple11/SchoolReport.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state relative-caret-position="198">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddRequirementCommand.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/example9/AddRequirementCommand.php">
+      <file leaf-file-name="FatherClient.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/examlple11/FatherClient.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="308">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Invoker.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example9/Invoker.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommClient.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example9/CommClient.php">
+      <file leaf-file-name="FouthGradeSchoolReport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/examlple11/FouthGradeSchoolReport.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GradeReport.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/examlple11/GradeReport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -90,14 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/module/example3/Human.php" />
-        <option value="$PROJECT_DIR$/module/example3/BlackHuman.php" />
-        <option value="$PROJECT_DIR$/module/example3/WriteHuman.php" />
-        <option value="$PROJECT_DIR$/module/example3/FemalBlackHuman.php" />
-        <option value="$PROJECT_DIR$/module/example3/MaleBlackHuman.php" />
-        <option value="$PROJECT_DIR$/module/example3/FemalWriteHuman.php" />
-        <option value="$PROJECT_DIR$/module/example3/maleWriteHuman.php" />
-        <option value="$PROJECT_DIR$/module/example3/MaleWriteHuman.php" />
         <option value="$PROJECT_DIR$/module/example3/HumanFactory.php" />
         <option value="$PROJECT_DIR$/module/example3/FemalHumanFactory.php" />
         <option value="$PROJECT_DIR$/module/example3/MaleHumanFactory.php" />
@@ -141,6 +123,14 @@
         <option value="$PROJECT_DIR$/module/example9/DeletePageCommand.php" />
         <option value="$PROJECT_DIR$/module/example9/CommClient.php" />
         <option value="$PROJECT_DIR$/module/example9/Invoker.php" />
+        <option value="$PROJECT_DIR$/module/example10/IWomen.php" />
+        <option value="$PROJECT_DIR$/module/example10/Women.php" />
+        <option value="$PROJECT_DIR$/module/example10/Handler.php" />
+        <option value="$PROJECT_DIR$/module/example10/Husband.php" />
+        <option value="$PROJECT_DIR$/module/examlple11/SchoolReport.php" />
+        <option value="$PROJECT_DIR$/module/examlple11/FouthGradeSchoolReport.php" />
+        <option value="$PROJECT_DIR$/module/examlple11/GradeReport.php" />
+        <option value="$PROJECT_DIR$/module/examlple11/FatherClient.php" />
       </list>
     </option>
   </component>
@@ -164,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,17 +170,18 @@
               <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
               <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
               <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="example9" type="462c0819:PsiDirectoryNode" />
+              <item name="examlple11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -250,15 +240,19 @@
       <workItem from="1554965947297" duration="8000" />
       <workItem from="1555061363620" duration="3859000" />
       <workItem from="1555120747219" duration="2064000" />
-      <workItem from="1555293179159" duration="5269000" />
+      <workItem from="1555293179159" duration="5878000" />
+      <workItem from="1555315504576" duration="109000" />
+      <workItem from="1555578307451" duration="2844000" />
+      <workItem from="1555902625016" duration="1509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72204000" />
+    <option name="totallyTimeSpent" value="77275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2890625" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -274,11 +268,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,65 +282,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module/example3/FemalHumanFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example3/FemalWriteHuman.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example3/Human.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example3/HumanFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example3/MaleBlackHuman.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example3/MaleHumanFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example3/MaleWriteHuman.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example3/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module/example3/NvWa.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -628,7 +563,7 @@
     <entry file="file://$PROJECT_DIR$/module/example9/Command.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -642,14 +577,70 @@
     <entry file="file://$PROJECT_DIR$/module/example9/Invoker.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/example9/AddRequirementCommand.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example10/IWomen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example10/Women.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example10/Handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example10/Husband.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/examlple11/GradeReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/examlple11/FouthGradeSchoolReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/examlple11/SchoolReport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/examlple11/FatherClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
