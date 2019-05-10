@@ -11,6 +11,10 @@ class Opera
     private $one;
     private $two;
 
+    /**
+     * 构造函数
+     * Opera constructor.
+     */
     public function __construct()
     {
         self::formatData();
