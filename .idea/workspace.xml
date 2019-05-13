@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/swool/game.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/BridgeClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/Clothes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/Corp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/House.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/HouseCorp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/IPod.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/ProductBridge.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/ShanZhaiCorp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/example18/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK1/AdultSuperMan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK1/ChildSuperMan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK1/ISuperMan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK1/SuperManFactory.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/module1/Opera.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/module1/Opera.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example18/Clothes.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example18/Clothes.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,75 +21,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClientProduct.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example2/ClientProduct.php">
+      <file leaf-file-name="ISuperMan.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK1/ISuperMan.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#6#94#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/module1/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+      <file leaf-file-name="AdultSuperMan.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK1/AdultSuperMan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FactoryOpera.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/module1/FactoryOpera.php">
+      <file leaf-file-name="ChildSuperMan.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK1/ChildSuperMan.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="20" column="40" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="40" />
+            <state relative-caret-position="198">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Opera.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/module1/Opera.php">
+      <file leaf-file-name="SuperManFactory.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/PK1/SuperManFactory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="154">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreateProduct.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example2/CreateProduct.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example2/Product.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="production_true.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example2/production_true.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="ConreteCreate.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example2/ConreteCreate.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="21" column="53" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConcreteProduct.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/example2/ConcreteProduct.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-431" />
           </provider>
         </entry>
       </file>
@@ -119,10 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/module/example10/Handler.php" />
-        <option value="$PROJECT_DIR$/module/example10/Husband.php" />
-        <option value="$PROJECT_DIR$/module/examlple11/SchoolReport.php" />
-        <option value="$PROJECT_DIR$/module/examlple11/FouthGradeSchoolReport.php" />
         <option value="$PROJECT_DIR$/module/examlple11/GradeReport.php" />
         <option value="$PROJECT_DIR$/module/examlple11/FatherClient.php" />
         <option value="$PROJECT_DIR$/module/example12/Istrategy.php" />
@@ -165,11 +122,15 @@
         <option value="$PROJECT_DIR$/module/example18/IPod.php" />
         <option value="$PROJECT_DIR$/module/example18/Corp.php" />
         <option value="$PROJECT_DIR$/module/example18/HouseCorp.php" />
-        <option value="$PROJECT_DIR$/module/example18/Clothes.php" />
         <option value="$PROJECT_DIR$/module/example18/ShanZhaiCorp.php" />
         <option value="$PROJECT_DIR$/module/example18/BridgeClient.php" />
         <option value="$PROJECT_DIR$/module/example18/readme.md" />
         <option value="$PROJECT_DIR$/module/module1/Opera.php" />
+        <option value="$PROJECT_DIR$/module/example18/Clothes.php" />
+        <option value="$PROJECT_DIR$/module/PK1/ISuperMan.php" />
+        <option value="$PROJECT_DIR$/module/PK1/AdultSuperMan.php" />
+        <option value="$PROJECT_DIR$/module/PK1/ChildSuperMan.php" />
+        <option value="$PROJECT_DIR$/module/PK1/SuperManFactory.php" />
       </list>
     </option>
   </component>
@@ -192,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,43 +169,18 @@
             <path>
               <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
               <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="swool" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
               <item name="module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
               <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
               <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="example2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="example3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="PK1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,18 +258,19 @@
       <workItem from="1557113636353" duration="2715000" />
       <workItem from="1557369554879" duration="3740000" />
       <workItem from="1557407089445" duration="1684000" />
-      <workItem from="1557472476825" duration="2533000" />
+      <workItem from="1557472476825" duration="3354000" />
+      <workItem from="1557712982101" duration="701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100420000" />
+    <option name="totallyTimeSpent" value="101942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30490404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30810234" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -360,65 +298,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module/example13/UserClient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/eaglewu/swoole-ide-helper/src/Constants.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/pthreads/pthreads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1935">
-          <caret line="166" column="14" selection-start-line="166" selection-start-column="6" selection-end-line="166" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example14/Spy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example14/ObserverClient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example14/LiSi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example14/ILiSi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example14/HanFeiZi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module/example14/IHanFeiZi.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -550,69 +429,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/example18/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example18/Corp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example18/ProductBridge.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example18/House.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example18/IPod.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example18/HouseCorp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example18/ShanZhaiCorp.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module/example18/BridgeClient.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example18/Clothes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -680,17 +500,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/module1/FactoryOpera.php">
+    <entry file="file://$PROJECT_DIR$/module/module1/Operatation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="20" column="40" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="176">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/module1/OperaSub.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/module1/OperaMul.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/module1/OperaDiv.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/module1/OperaAdd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/module1/Opera.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="550">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example18/ShanZhaiCorp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example18/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example18/ProductBridge.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example18/IPod.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example18/HouseCorp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example18/House.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example18/Corp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/example18/Clothes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/module1/FactoryOpera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK1/ISuperMan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#6#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK1/AdultSuperMan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK1/ChildSuperMan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK1/SuperManFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>

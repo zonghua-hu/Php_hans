@@ -18,6 +18,4 @@ class Clothes extends ProductBridge
         // TODO: Implement beProducted() method.
         echo "衣服是这样子生产的~";
     }
-
-
 }
