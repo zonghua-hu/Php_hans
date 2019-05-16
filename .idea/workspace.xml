@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/module/PK1/AdultSuperMan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/PK1/ChildSuperMan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/PK1/ISuperMan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/PK1/SuperManFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/swool/Process/Process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK2/ChinaDnsServer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK2/DnsClient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK2/DnsServer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK2/Recorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK2/SHDnsServer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK2/TopDnsServer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/PK2/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example18/Clothes.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example18/Clothes.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,41 +24,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ISuperMan.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/PK1/ISuperMan.php">
+      <file leaf-file-name="Recorder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK2/Recorder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#6#94#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="669">
+              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdultSuperMan.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/PK1/AdultSuperMan.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/PK2/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="5" selection-start-column="5" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChildSuperMan.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/PK1/ChildSuperMan.php">
+      <file leaf-file-name="DnsServer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK2/DnsServer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SHDnsServer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK2/SHDnsServer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChinaDnsServer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK2/ChinaDnsServer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopDnsServer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK2/TopDnsServer.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SuperManFactory.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/PK1/SuperManFactory.php">
+      <file leaf-file-name="DnsClient.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/PK2/DnsClient.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="462">
+              <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -80,15 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/module/examlple11/GradeReport.php" />
-        <option value="$PROJECT_DIR$/module/examlple11/FatherClient.php" />
-        <option value="$PROJECT_DIR$/module/example12/Istrategy.php" />
-        <option value="$PROJECT_DIR$/module/example12/BackDoor.php" />
-        <option value="$PROJECT_DIR$/module/example12/GreenLight.php" />
-        <option value="$PROJECT_DIR$/module/example12/BlackEnemy.php" />
-        <option value="$PROJECT_DIR$/module/example12/Context.php" />
-        <option value="$PROJECT_DIR$/module/example12/ZhaoYun.php" />
-        <option value="$PROJECT_DIR$/module/example12/readme.md" />
         <option value="$PROJECT_DIR$/module/example13/IOutUser.php" />
         <option value="$PROJECT_DIR$/module/example13/OuterUser.php" />
         <option value="$PROJECT_DIR$/module/example13/UserInfo.php" />
@@ -127,10 +148,19 @@
         <option value="$PROJECT_DIR$/module/example18/readme.md" />
         <option value="$PROJECT_DIR$/module/module1/Opera.php" />
         <option value="$PROJECT_DIR$/module/example18/Clothes.php" />
-        <option value="$PROJECT_DIR$/module/PK1/ISuperMan.php" />
         <option value="$PROJECT_DIR$/module/PK1/AdultSuperMan.php" />
         <option value="$PROJECT_DIR$/module/PK1/ChildSuperMan.php" />
         <option value="$PROJECT_DIR$/module/PK1/SuperManFactory.php" />
+        <option value="$PROJECT_DIR$/module/PK1/ClientSuperMan.php" />
+        <option value="$PROJECT_DIR$/module/PK1/ISuperMan.php" />
+        <option value="$PROJECT_DIR$/app/swool/Process/Process.php" />
+        <option value="$PROJECT_DIR$/module/PK2/Recorder.php" />
+        <option value="$PROJECT_DIR$/module/PK2/SHDnsServer.php" />
+        <option value="$PROJECT_DIR$/module/PK2/ChinaDnsServer.php" />
+        <option value="$PROJECT_DIR$/module/PK2/TopDnsServer.php" />
+        <option value="$PROJECT_DIR$/module/PK2/DnsClient.php" />
+        <option value="$PROJECT_DIR$/module/PK2/DnsServer.php" />
+        <option value="$PROJECT_DIR$/module/PK2/readme.md" />
       </list>
     </option>
   </component>
@@ -143,17 +173,17 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,30 +205,36 @@
               <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
               <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
               <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="PK1" type="462c0819:PsiDirectoryNode" />
+              <item name="PK2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Php_hans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Php_hans" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WeDocker\sites\Php_hans\public" />
+      <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\WeDocker\sites\Php_hans\public\js" />
       <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
       <recent name="E:\WeDocker\sites\Php_hans\public" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\WeDocker\sites\Php_hans\public" />
-      <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -212,6 +248,14 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Process.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/swool/Process/Process.php" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.Process.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -259,18 +303,21 @@
       <workItem from="1557369554879" duration="3740000" />
       <workItem from="1557407089445" duration="1684000" />
       <workItem from="1557472476825" duration="3354000" />
-      <workItem from="1557712982101" duration="701000" />
+      <workItem from="1557712982101" duration="1411000" />
+      <workItem from="1557902031845" duration="1824000" />
+      <workItem from="1557906193668" duration="25000" />
+      <workItem from="1557977294254" duration="4499000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101942000" />
+    <option name="totallyTimeSpent" value="109000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30810234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31769723" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -298,88 +345,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/module/example14/IHanFeiZi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example15/CheckLetter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example15/LitterClient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example15/ModernPostOffice.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example15/LetterProcessImpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="33" selection-start-line="32" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example15/ILetterProcess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/swool/HttpServerHans.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/swool/ClientHans.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/swool/ServerHans.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example16/RuningState.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example16/StopingState.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example16/CloseingState.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example16/OpeningState.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/example16/LiftState.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/module/example16/Contexts.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -598,11 +563,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/PK1/ISuperMan.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="220">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="e#6#94#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK1/ChildSuperMan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK1/SuperManFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK1/ClientSuperMan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/swool/ServerHans.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/swool/HttpServerHans.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/swool/ClientHans.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/eaglewu/swoole-ide-helper/src/Functionals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15708">
+          <caret line="735" column="6" selection-start-line="735" selection-start-column="6" selection-end-line="735" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/swool/Process/Process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK2/ChinaDnsServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK2/TopDnsServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK2/DnsClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK2/DnsServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/PK2/SHDnsServer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -613,17 +672,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/PK1/ChildSuperMan.php">
+    <entry file="file://$PROJECT_DIR$/module/PK2/Recorder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="669">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/PK1/SuperManFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+    <entry file="file://$PROJECT_DIR$/module/PK2/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="5" selection-start-column="5" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
