@@ -15,7 +15,7 @@ return array(
         'charset' => 'utf8',
         'dbname'  => 'weicheche',
     ),
-    'app'      => array(
+    'app'=> array(
         'default_platform'   => 'Admin',
         'default_controller' => 'ProductsModel.class',
         'default_action'     => 'list',

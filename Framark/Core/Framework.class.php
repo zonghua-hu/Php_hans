@@ -14,7 +14,6 @@ class Framework
         self::initRoutes();
         self::initRegisterAutoLoad();
         self::initDispatch();
-
     }
     /**
      * 定义常量路径
