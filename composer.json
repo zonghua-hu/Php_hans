@@ -1,0 +1,9 @@
+{
+    "name": "vendor/hans",
+    "description": "this is all Design module of php",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "license": "www.hans.com"
+}

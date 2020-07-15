@@ -20,11 +20,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/module/DataStruct/ArrayClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/DataStruct/ArrayStack.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/trait/peoples.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Algorithm/Algorithm.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/ObjectPool/PoolTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/ObjectPool/StringReverseWorker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/ObjectPool/WorkPool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsiby/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsiby/RequireHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsiby/SlowMysqlHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/SimpleFactory/Bicycle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/SimpleFactory/ClientSimple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/SimpleFactory/SimpleFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/SimpleFactory/SimpleFactoryTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/abstractFactory/BuyProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/abstractFactory/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/abstractFactory/ProductFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/abstractFactory/SellProduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/abstractFactory/TestFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/abstractFactory/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/DataStruct/ArrayClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/DataStruct/ArrayClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/DataStruct/ArrayStack.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/DataStruct/ArrayStack.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example1/Emperor.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example1/Emperor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module/example1/Minister.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example1/Minister.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example2/ClientProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example2/ConcreteProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example2/ConreteCreate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example2/CreateProduct.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example2/Product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example2/production_true.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example2/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/BlackHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/BlackHuman.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/FemalBlackHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/FemalBlackHuman.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/FemalHumanFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/FemalHumanFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/FemalWriteHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/FemalWriteHuman.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/HumanFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/HumanFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/MaleBlackHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/MaleBlackHuman.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/MaleHumanFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/MaleHumanFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/MaleWriteHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/MaleWriteHuman.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/example3/WriteHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/WriteHuman.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +78,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>cli</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -65,7 +95,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -149,7 +179,19 @@
       <workItem from="1562664919187" duration="1371000" />
       <workItem from="1583562741193" duration="538000" />
       <workItem from="1587541646822" duration="2413000" />
-      <workItem from="1589459716660" duration="1225000" />
+      <workItem from="1589459716660" duration="1560000" />
+      <workItem from="1590484775215" duration="2926000" />
+      <workItem from="1590550610819" duration="1062000" />
+      <workItem from="1590737079625" duration="1828000" />
+      <workItem from="1591183057951" duration="1480000" />
+      <workItem from="1591272242660" duration="1957000" />
+      <workItem from="1592534794291" duration="1232000" />
+      <workItem from="1594193949554" duration="1257000" />
+      <workItem from="1594265297566" duration="1436000" />
+      <workItem from="1594277783831" duration="3327000" />
+      <workItem from="1594294485929" duration="1837000" />
+      <workItem from="1594346282548" duration="563000" />
+      <workItem from="1594778380027" duration="4152000" />
     </task>
     <servers />
   </component>
@@ -169,10 +211,41 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="263" y="283" key="NewPhpClassDialog" timestamp="1589460375213">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state x="413" y="-889" key="#CLI_Interpreters" timestamp="1594295038880">
+      <screen x="-134" y="-1057" width="1920" height="1057" />
     </state>
+    <state x="413" y="-889" key="#CLI_Interpreters/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295038880" />
+    <state x="413" y="-889" key="#PHP_CS_Fixer" timestamp="1594295721091">
+      <screen x="-134" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="413" y="-889" key="#PHP_CS_Fixer/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295721091" />
+    <state x="413" y="-889" key="#PHP_CodeSniffer" timestamp="1594295838222">
+      <screen x="-134" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="413" y="-889" key="#PHP_CodeSniffer/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295838222" />
+    <state x="732" y="-634" key="#PHP_CodeSniffer_Ignored_Files" timestamp="1594295047660">
+      <screen x="-134" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="732" y="-634" key="#PHP_CodeSniffer_Ignored_Files/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295047660" />
+    <state x="487" y="-936" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594194839433">
+      <screen x="-134" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="487" y="-936" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594194839433" />
+    <state x="128" y="-776" key="NewPhpClassDialog" timestamp="1594780517598">
+      <screen x="-134" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="128" y="-776" key="NewPhpClassDialog/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1594780517598" />
+    <state x="128" y="-776" key="NewPhpClassDialog/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594296275614" />
     <state x="263" y="283" key="NewPhpClassDialog/0.23.1920.977@0.23.1920.977" timestamp="1589460375213" />
     <state x="351" y="379" key="NewPhpClassDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1587606096023" />
+    <state x="278" y="296" key="NewPhpClassDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1590484861205" />
+    <state x="327" y="-912" key="SettingsEditor" timestamp="1594295891045">
+      <screen x="-134" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="327" y="-912" key="SettingsEditor/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295891045" />
+    <state x="657" y="268" width="606" height="486" key="find.popup" timestamp="1589461153551">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="657" y="268" width="606" height="486" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1589461153551" />
   </component>
 </project>

@@ -3,10 +3,11 @@
 
 namespace module\DataStruct;
 
+use PHPUnit\Framework\TestCase;
 
-class ArrayClient
+class ArrayClient extends TestCase
 {
-    public function run()
+    public function testRun()
     {
         $arrObj = new ArrayStack();
         $arrObj->push(2);
@@ -17,7 +18,9 @@ class ArrayClient
         $arrObj->push(7);
         $arrObj->push(8);
         $arrObj->push(9);
+        $count = $arrObj->countStack();
+
+        $this->assertCount($count, 8);
         var_dump($arrObj->pop());
     }
-
 }

@@ -14,5 +14,4 @@ class MaleBlackHuman extends BlackHuman
     {
         return $this->sex = "男";
     }
-
 }

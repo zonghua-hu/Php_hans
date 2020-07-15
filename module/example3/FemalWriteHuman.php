@@ -14,5 +14,4 @@ class FemalWriteHuman extends WriteHuman
     {
         return $this->sex = "女";
     }
-
 }

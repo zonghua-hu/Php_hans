@@ -17,5 +17,4 @@ class MaleHumanFactory implements HumanFactory
     {
         return new MaleBlackHuman();
     }
-
 }

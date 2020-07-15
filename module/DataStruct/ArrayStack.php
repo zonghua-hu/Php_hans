@@ -44,4 +44,16 @@ class ArrayStack
         }
         return $this->stack[$this->count - 1];
     }
+
+    /**
+     * @Notes:返回栈总个数
+     * @return int
+     * @User: Hans
+     * @Date: 2020/7/10
+     * @Time: 10:03 上午
+     */
+    public function countStack()
+    {
+        return $this->count;
+    }
 }

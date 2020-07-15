@@ -20,5 +20,4 @@ abstract  class WriteHuman implements Human
     {
         return $this->say = "I am Human~~~";
     }
-
 }

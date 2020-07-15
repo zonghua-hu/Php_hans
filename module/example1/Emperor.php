@@ -8,8 +8,7 @@
 
 class Emperor
 {
-    private static  $emper;
-
+    private static $emper;
     /**
      * 构造函数判断对象是否唯一
      * Emperor constructor.
@@ -39,7 +38,7 @@ class Emperor
      */
     public static function getEmperor()
     {
-        return self::$emper;        
+        return self::$emper;
     }
     /**
      * 实例方法
