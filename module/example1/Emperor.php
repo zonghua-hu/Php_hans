@@ -1,4 +1,6 @@
 <?php
+
+namespace example1;
 /**
  * Created by PhpStorm.
  * User: Administrator
@@ -16,7 +18,7 @@ class Emperor
     public function __construct()
     {
         if (! self::$emper instanceof Emperor) {
-            self::$emper = new Emperor();
+            self::$emper = new self();
         }
     }
     /**
@@ -48,6 +50,6 @@ class Emperor
      */
     public function emperorSay()
     {
-        echo "众爱卿，平身，我是大唐皇帝李世民！";
+        return  "众爱卿，平身，我是大唐皇帝李世民！";
     }
 }

@@ -20,46 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Algorithm/Algorithm.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ObjectPool/PoolTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ObjectPool/StringReverseWorker.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ObjectPool/WorkPool.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Responsiby/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Responsiby/RequireHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Responsiby/SlowMysqlHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/SimpleFactory/Bicycle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/SimpleFactory/ClientSimple.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/SimpleFactory/SimpleFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/SimpleFactory/SimpleFactoryTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/abstractFactory/BuyProduct.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/abstractFactory/Product.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/abstractFactory/ProductFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/abstractFactory/SellProduct.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/abstractFactory/TestFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/abstractFactory/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/example1/test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/DataStruct/ArrayClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/DataStruct/ArrayClient.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/DataStruct/ArrayStack.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/DataStruct/ArrayStack.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module/example1/Emperor.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example1/Emperor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module/example1/Minister.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example1/Minister.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example2/ClientProduct.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example2/ConcreteProduct.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example2/ConreteCreate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example2/CreateProduct.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example2/Product.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example2/production_true.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example2/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/BlackHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/BlackHuman.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/FemalBlackHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/FemalBlackHuman.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/FemalHumanFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/FemalHumanFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/FemalWriteHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/FemalWriteHuman.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/HumanFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/HumanFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/MaleBlackHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/MaleBlackHuman.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/MaleHumanFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/MaleHumanFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/MaleWriteHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/MaleWriteHuman.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/example3/WriteHuman.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/example3/WriteHuman.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +155,8 @@
       <workItem from="1594277783831" duration="3327000" />
       <workItem from="1594294485929" duration="1837000" />
       <workItem from="1594346282548" duration="563000" />
-      <workItem from="1594778380027" duration="4152000" />
+      <workItem from="1594778380027" duration="4234000" />
+      <workItem from="1595227357268" duration="2779000" />
     </task>
     <servers />
   </component>
@@ -239,6 +204,10 @@
     <state x="263" y="283" key="NewPhpClassDialog/0.23.1920.977@0.23.1920.977" timestamp="1589460375213" />
     <state x="351" y="379" key="NewPhpClassDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1587606096023" />
     <state x="278" y="296" key="NewPhpClassDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1590484861205" />
+    <state x="645" y="-598" key="NewPhpFileDialog" timestamp="1595227602569">
+      <screen x="-134" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="645" y="-598" key="NewPhpFileDialog/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1595227602569" />
     <state x="327" y="-912" key="SettingsEditor" timestamp="1594295891045">
       <screen x="-134" y="-1057" width="1920" height="1057" />
     </state>
