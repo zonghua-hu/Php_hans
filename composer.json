@@ -3,7 +3,8 @@
     "description": "this is all Design module of php",
     "type": "library",
     "require": {
-        "phpunit/phpunit": "^8.0"
+        "phpunit/phpunit": "^8.0",
+        "swoole/ide-helper": "@dev"
     },
     "license": "www.hans.com"
 }
