@@ -20,17 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/swool/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/swool/server/SwooleHttp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/swool/server/SwooleTcp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/swool/server/SwooleWebSocket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/swool/swoole.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/swool/App.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/swool/Process/Process.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/swool/server/AbstractServer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/swool/server/IServer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/swool/server/SwooleTcp.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/swool/server/SwooleTcp.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +158,7 @@
       <workItem from="1595227357268" duration="3157000" />
       <workItem from="1595815540777" duration="716000" />
       <workItem from="1596683502039" duration="9063000" />
+      <workItem from="1597026512606" duration="14790000" />
     </task>
     <servers />
   </component>
@@ -228,9 +221,9 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="657" y="268" width="606" height="486" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1589461153551" />
-    <state x="491" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1596684031124">
+    <state x="491" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1597041109734">
       <screen x="-134" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="491" y="-822" width="670" height="676" key="search.everywhere.popup/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1596684031124" />
+    <state x="491" y="-822" width="670" height="676" key="search.everywhere.popup/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1597041109734" />
   </component>
 </project>
