@@ -39,7 +39,7 @@ class SwooleTcp
         $server->on('workerStart', array($this, 'onWorkerStart'));
 
         //创建自定义进程
-        $server->addProcess($this->addProcessNew($server));
+//        $server->addProcess($this->addProcessNew($server));
 
         //启动服务器
         $server->start();
