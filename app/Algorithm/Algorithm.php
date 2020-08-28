@@ -294,38 +294,42 @@ class Algorithm
         return false;
     }
 
+    /**
+     * @Notes:获取文件夹下面的所有文件
+     * @param $path
+     * @param $files
+     * @User: Hans
+     * @Date: 2020/8/28
+     * @Time: 6:05 下午
+     */
+    public function getAllFiles($path, &$files)
+    {
+        if (is_dir($path)) {
+            $dp = dir($path);
+            while ($file = $dp ->read()) {
+                if ($file !== "." && $file !== "..") {
+                    self::getAllFiles($path."/".$file, $files);
+                }
+            }
+            $dp ->close();
+        }
+        if (is_file($path)) {
+            $files[] =  $path;
+        }
+    }
 
-
+    /**
+     * @Notes:获取文件夹下面的所有文件
+     * @param $dir
+     * @return array
+     * @User: Hans
+     * @Date: 2020/8/28
+     * @Time: 6:05 下午
+     */
+    public function getFileNamesByDir($dir)
+    {
+        $files =  array();
+        $this->getAllFiles($dir, $files);
+        return $files;
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
