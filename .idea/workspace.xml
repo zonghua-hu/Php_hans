@@ -20,8 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Aop/PaymentMoney.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Aop/SystemLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Container/Container.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Kafka/KafkaClient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Kafka/KafkaQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Kafka/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Kafka/testKafka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/benstalk/Producter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/benstalk/consumer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/benstalk/status.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/coroutine/Scheduler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/coroutine/SystemCall.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/coroutine/Task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/coroutine/client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Algorithm/Algorithm.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Algorithm/Algorithm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +85,16 @@
       <recent name="E:\WeDocker\sites\Php_hans\public" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.client.php">
+    <configuration name="client.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Php_hans/app/coroutine/client.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Process.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/swool/Process/Process.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.client.php" />
         <item itemvalue="PHP Script.Process.php" />
       </list>
     </recent_temporary>
@@ -158,7 +177,17 @@
       <workItem from="1595815540777" duration="716000" />
       <workItem from="1596683502039" duration="9063000" />
       <workItem from="1597026512606" duration="14790000" />
-      <workItem from="1598609022538" duration="103000" />
+      <workItem from="1598609022538" duration="807000" />
+      <workItem from="1599206315407" duration="5381000" />
+      <workItem from="1599726805058" duration="2797000" />
+      <workItem from="1600326691357" duration="989000" />
+      <workItem from="1602842688685" duration="4077000" />
+      <workItem from="1604627094681" duration="1553000" />
+      <workItem from="1605084073081" duration="750000" />
+      <workItem from="1605181275589" duration="1480000" />
+      <workItem from="1605665036667" duration="31000" />
+      <workItem from="1607408676467" duration="1263000" />
+      <workItem from="1607410013535" duration="2181000" />
     </task>
     <servers />
   </component>
@@ -178,52 +207,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="-889" key="#CLI_Interpreters" timestamp="1594295038880">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
+    <state x="286" y="297" key="NewPhpClassDialog" timestamp="1607413543451">
+      <screen x="66" y="25" width="1614" height="1025" />
     </state>
-    <state x="413" y="-889" key="#CLI_Interpreters/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295038880" />
-    <state x="413" y="-889" key="#PHP_CS_Fixer" timestamp="1594295721091">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
+    <state x="-1658" y="286" key="NewPhpClassDialog/-1920.23.1920.988/0.23.1680.1027@-1920.23.1920.988" timestamp="1599208546799" />
+    <state x="289" y="296" key="NewPhpClassDialog/-240.-1057.1920.1057/69.23.1611.1027@69.23.1611.1027" timestamp="1599738519076" />
+    <state x="286" y="297" key="NewPhpClassDialog/-414.-1415.2560.1415/66.25.1614.1025@66.25.1614.1025" timestamp="1607413543451" />
+    <state x="308" y="304" key="NewPhpClassDialog/53.23.1867.1057@53.23.1867.1057" timestamp="1604628127912" />
+    <state x="810" y="482" key="NewPhpFileDialog" timestamp="1602842804369">
+      <screen x="53" y="23" width="1867" height="1057" />
     </state>
-    <state x="413" y="-889" key="#PHP_CS_Fixer/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295721091" />
-    <state x="413" y="-889" key="#PHP_CodeSniffer" timestamp="1594295838222">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
+    <state x="-1141" y="452" key="NewPhpFileDialog/-1920.23.1920.988/0.23.1680.1027@-1920.23.1920.988" timestamp="1599211565938" />
+    <state x="810" y="482" key="NewPhpFileDialog/53.23.1867.1057@53.23.1867.1057" timestamp="1602842804369" />
+    <state x="-167" y="-894" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600327498057">
+      <screen x="-240" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="413" y="-889" key="#PHP_CodeSniffer/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295838222" />
-    <state x="732" y="-634" key="#PHP_CodeSniffer_Ignored_Files" timestamp="1594295047660">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="732" y="-634" key="#PHP_CodeSniffer_Ignored_Files/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295047660" />
-    <state x="564" y="-720" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596695864294">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="564" y="-720" key="#com.intellij.fileTypes.FileTypeChooser/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1596695864294" />
-    <state x="487" y="-936" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594194839433">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="487" y="-936" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594194839433" />
-    <state x="128" y="-776" key="NewPhpClassDialog" timestamp="1596685375866">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="128" y="-776" key="NewPhpClassDialog/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1596685375866" />
-    <state x="128" y="-776" key="NewPhpClassDialog/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594296275614" />
-    <state x="263" y="283" key="NewPhpClassDialog/0.23.1920.977@0.23.1920.977" timestamp="1589460375213" />
-    <state x="278" y="296" key="NewPhpClassDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1590484861205" />
-    <state x="645" y="-598" key="NewPhpFileDialog" timestamp="1596684313543">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="645" y="-598" key="NewPhpFileDialog/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1596684313543" />
-    <state x="327" y="-912" key="SettingsEditor" timestamp="1594295891045">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="327" y="-912" key="SettingsEditor/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295891045" />
-    <state x="657" y="268" width="606" height="486" key="find.popup" timestamp="1589461153551">
-      <screen x="0" y="23" width="1920" height="977" />
-    </state>
-    <state x="657" y="268" width="606" height="486" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1589461153551" />
-    <state x="491" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1597041109734">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="491" y="-822" width="670" height="676" key="search.everywhere.popup/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1597041109734" />
+    <state x="-167" y="-894" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-240.-1057.1920.1057/54.23.1626.1027@-240.-1057.1920.1057" timestamp="1600327498057" />
   </component>
 </project>

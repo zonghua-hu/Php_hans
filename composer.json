@@ -4,7 +4,8 @@
     "type": "library",
     "require": {
         "phpunit/phpunit": "^8.0",
-        "swoole/ide-helper": "@dev"
+        "swoole/ide-helper": "@dev",
+        "pda/pheanstalk": "^4.0"
     },
     "license": "www.hans.com"
 }
