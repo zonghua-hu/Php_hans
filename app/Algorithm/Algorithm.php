@@ -15,9 +15,9 @@ class Algorithm
     public function bubbleSort($ambitionArray)
     {
         $arrNum = count($ambitionArray);
-        for ($i = 0;$i < $arrNum - 1; ++$i) {
+        for ($i = 0; $i < $arrNum - 1; ++$i) {
             $flag = false;
-            for ($j = 0;$j < $arrNum - 1 - $i;++$j) {
+            for ($j = 0; $j < $arrNum - 1 - $i; ++$j) {
                 if ($ambitionArray[$j] > $ambitionArray[$j + 1]) {
                     $temp = $ambitionArray[$j];
                     $ambitionArray[$j] = $ambitionArray[$j + 1];

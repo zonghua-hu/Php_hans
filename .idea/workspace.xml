@@ -20,23 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Aop/PaymentMoney.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Aop/SystemLog.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Container/Container.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Kafka/KafkaClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Kafka/KafkaQueue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Kafka/Queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Kafka/testKafka.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/benstalk/Producter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/benstalk/consumer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/benstalk/status.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/coroutine/Scheduler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/coroutine/SystemCall.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/coroutine/Task.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/coroutine/client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ElasticSearch/BaseElasticSearch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ElasticSearch/ClothesElasticSearch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ElasticSearch/Elastic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ElasticSearch/ShopElasticSearch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ElasticSearch/develop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ElasticSearch/services.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Algorithm/Algorithm.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Algorithm/Algorithm.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,20 +60,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/ElasticSearch" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\WeDocker\sites\Php_hans\public" />
-      <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/ElasticSearch" />
       <recent name="E:\WeDocker\sites\Php_hans\public\js" />
       <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
       <recent name="E:\WeDocker\sites\Php_hans\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WeDocker\sites\Php_hans\public" />
+      <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.client.php">
@@ -188,6 +180,8 @@
       <workItem from="1605665036667" duration="31000" />
       <workItem from="1607408676467" duration="1263000" />
       <workItem from="1607410013535" duration="2181000" />
+      <workItem from="1611889463560" duration="601000" />
+      <workItem from="1614772940418" duration="102000" />
     </task>
     <servers />
   </component>
@@ -210,18 +204,10 @@
     <state x="286" y="297" key="NewPhpClassDialog" timestamp="1607413543451">
       <screen x="66" y="25" width="1614" height="1025" />
     </state>
-    <state x="-1658" y="286" key="NewPhpClassDialog/-1920.23.1920.988/0.23.1680.1027@-1920.23.1920.988" timestamp="1599208546799" />
-    <state x="289" y="296" key="NewPhpClassDialog/-240.-1057.1920.1057/69.23.1611.1027@69.23.1611.1027" timestamp="1599738519076" />
     <state x="286" y="297" key="NewPhpClassDialog/-414.-1415.2560.1415/66.25.1614.1025@66.25.1614.1025" timestamp="1607413543451" />
-    <state x="308" y="304" key="NewPhpClassDialog/53.23.1867.1057@53.23.1867.1057" timestamp="1604628127912" />
-    <state x="810" y="482" key="NewPhpFileDialog" timestamp="1602842804369">
-      <screen x="53" y="23" width="1867" height="1057" />
+    <state x="697" y="465" key="NewPhpFileDialog" timestamp="1614773027020">
+      <screen x="66" y="25" width="1614" height="1025" />
     </state>
-    <state x="-1141" y="452" key="NewPhpFileDialog/-1920.23.1920.988/0.23.1680.1027@-1920.23.1920.988" timestamp="1599211565938" />
-    <state x="810" y="482" key="NewPhpFileDialog/53.23.1867.1057@53.23.1867.1057" timestamp="1602842804369" />
-    <state x="-167" y="-894" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600327498057">
-      <screen x="-240" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="-167" y="-894" width="1720" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-240.-1057.1920.1057/54.23.1626.1027@-240.-1057.1920.1057" timestamp="1600327498057" />
+    <state x="697" y="465" key="NewPhpFileDialog/-424.-1415.2560.1415/66.25.1614.1025@66.25.1614.1025" timestamp="1614773027020" />
   </component>
 </project>
