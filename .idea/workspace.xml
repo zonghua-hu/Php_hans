@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/DownLoad.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/swool/Down/DownLoadRestart.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/swool/Down/DownloadLogic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/swool/Down/DownloadProcess.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/swool/Down/DownloadTaskServer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/swool/Down/download.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framark/Core/DBMysql.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/Framark/Core/DBMysql.class.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,16 +60,16 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WeDocker\sites\Php_hans\public" />
+      <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/swool/Down" />
       <recent name="$PROJECT_DIR$/app/ElasticSearch" />
       <recent name="E:\WeDocker\sites\Php_hans\public\js" />
       <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
       <recent name="E:\WeDocker\sites\Php_hans\public" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\WeDocker\sites\Php_hans\public" />
-      <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.client.php">
@@ -181,6 +177,9 @@
       <workItem from="1607410013535" duration="2181000" />
       <workItem from="1611889463560" duration="601000" />
       <workItem from="1614772940418" duration="526000" />
+      <workItem from="1614859212638" duration="34000" />
+      <workItem from="1614999927028" duration="1000" />
+      <workItem from="1615168138060" duration="1266000" />
     </task>
     <servers />
   </component>

@@ -84,7 +84,7 @@ class DBMysql
      */
     public function query($sql)
     {
-        if (!$result = mysqli_query($sql,$this->link)) {
+        if (!$result = mysqli_query($sql, $this->link)) {
             echo 'SQL语句执行失败~';
             echo '错误编号:'.mysqli_error(),'<br>';
             echo '错误信息:'.mysqli_error(),'<br>';
