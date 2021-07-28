@@ -20,16 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/BaseElasticSearch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/CategorySearch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/Elastic.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/ElasticDto.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/ElasticFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/GoodsAttrSearch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/GoodsSearch.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/develop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/ElasticSearch/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Facade/BiosInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Facade/BiosSony.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Facade/Facade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Facade/FacadeClient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Facade/OsInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Facade/OsSony.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/generator/Scheduler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/generator/SystemCall.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/generator/Task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/generator/client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/ElasticSearch/ElasticFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/ElasticSearch/ElasticFactory.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +64,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/module/ElasticSearch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -76,20 +80,26 @@
       <recent name="E:\WeDocker\sites\Php_hans\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\TestRoot\Php_hans\module\generator" />
       <recent name="E:\WeDocker\sites\Php_hans\public" />
       <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.client.php">
     <configuration name="Process.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/swool/Process/Process.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="client.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/module/generator/client.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.client.php" />
         <item itemvalue="PHP Script.Process.php" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -171,11 +181,24 @@
       <workItem from="1597201049745" duration="2463000" />
       <workItem from="1597225264346" duration="2664000" />
       <workItem from="1597236135077" duration="1460000" />
+      <workItem from="1619763292565" duration="1657000" />
+      <workItem from="1620910149244" duration="414000" />
+      <workItem from="1622014224367" duration="1440000" />
+      <workItem from="1623138642733" duration="1013000" />
+      <workItem from="1623830589446" duration="697000" />
+      <workItem from="1624974787623" duration="16000" />
+      <workItem from="1625192654385" duration="2959000" />
+      <workItem from="1625455156340" duration="1342000" />
+      <workItem from="1626077607022" duration="3081000" />
+      <workItem from="1626332296739" duration="6286000" />
+      <workItem from="1626340069900" duration="3244000" />
+      <workItem from="1626344846828" duration="15000" />
+      <workItem from="1626344913687" duration="4978000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -188,55 +211,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="413" y="-889" key="#CLI_Interpreters" timestamp="1594295038880">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="413" y="-889" key="#CLI_Interpreters/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295038880" />
-    <state x="413" y="-889" key="#PHP_CS_Fixer" timestamp="1594295721091">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="413" y="-889" key="#PHP_CS_Fixer/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295721091" />
-    <state x="413" y="-889" key="#PHP_CodeSniffer" timestamp="1594295838222">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="413" y="-889" key="#PHP_CodeSniffer/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295838222" />
-    <state x="732" y="-634" key="#PHP_CodeSniffer_Ignored_Files" timestamp="1594295047660">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="732" y="-634" key="#PHP_CodeSniffer_Ignored_Files/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295047660" />
-    <state x="564" y="-720" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596695864294">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="564" y="-720" key="#com.intellij.fileTypes.FileTypeChooser/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1596695864294" />
-    <state x="487" y="-936" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594194839433">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="487" y="-936" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594194839433" />
-    <state x="128" y="-776" key="NewPhpClassDialog" timestamp="1596685375866">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="128" y="-776" key="NewPhpClassDialog/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1596685375866" />
-    <state x="128" y="-776" key="NewPhpClassDialog/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594296275614" />
-    <state x="263" y="283" key="NewPhpClassDialog/0.23.1920.977@0.23.1920.977" timestamp="1589460375213" />
-    <state x="278" y="296" key="NewPhpClassDialog/56.23.1624.1027@56.23.1624.1027" timestamp="1590484861205" />
-    <state x="645" y="-598" key="NewPhpFileDialog" timestamp="1596684313543">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="645" y="-598" key="NewPhpFileDialog/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1596684313543" />
-    <state x="327" y="-912" key="SettingsEditor" timestamp="1597231509055">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="327" y="-912" key="SettingsEditor/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1597231509055" />
-    <state x="327" y="-912" key="SettingsEditor/-134.-1057.1920.1057/0.23.1680.983@-134.-1057.1920.1057" timestamp="1594295891045" />
-    <state x="657" y="268" width="606" height="486" key="find.popup" timestamp="1589461153551">
-      <screen x="0" y="23" width="1920" height="977" />
-    </state>
-    <state x="657" y="268" width="606" height="486" key="find.popup/0.23.1920.977@0.23.1920.977" timestamp="1589461153551" />
-    <state x="491" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1597041109734">
-      <screen x="-134" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="491" y="-822" width="670" height="676" key="search.everywhere.popup/-134.-1057.1920.1057/0.23.1680.958@-134.-1057.1920.1057" timestamp="1597041109734" />
   </component>
 </project>

@@ -3,11 +3,11 @@
 
 namespace Elasticsearch;
 
-use Phalcon\Exception;
-use WPLib\Constant;
+use Exception;
 
 class ElasticFactory implements ElasticDto
 {
+    protected $errorCode = 401;
     /**
      * 用来保存es实例化后的对象的数组
      * @var array
@@ -26,7 +26,7 @@ class ElasticFactory implements ElasticDto
     public function getInstance($class)
     {
         if (!class_exists(__NAMESPACE__ . '\\' . $class)) {
-            throw new Exception("{$class}".'类不存在，请检查', Constant::COMMON_STATUS);
+            throw new Exception("{$class}".'类不存在，请检查', $this->errorCode);
         }
         if (!isset(self::$elasticArr[$class])) {
             $className = __NAMESPACE__ . '\\' . $class;
