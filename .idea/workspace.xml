@@ -20,18 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/module/Facade/BiosInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Facade/BiosSony.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Facade/Facade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Facade/FacadeClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Facade/OsInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Facade/OsSony.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/generator/Scheduler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/generator/SystemCall.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/generator/Task.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/generator/client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AK/BaseService/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AK/BaseService/src/AbsService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Decorator/ConcreteComponent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Decorator/ConcreteDecorationOne.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Decorator/ConcreteDecorationTwo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Decorator/Decorator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Decorator/DecoratorClient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Decorator/IComponent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Decorator/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/ElasticSearch/ElasticFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/ElasticSearch/ElasticFactory.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,10 @@
       <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.client.php">
+  <component name="RunManager" selected="PHP Script.DecoratorClient.php">
+    <configuration name="DecoratorClient.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/module/Decorator/DecoratorClient.php">
+      <method v="2" />
+    </configuration>
     <configuration name="Process.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/swool/Process/Process.php">
       <method v="2" />
     </configuration>
@@ -94,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.DecoratorClient.php" />
         <item itemvalue="PHP Script.client.php" />
         <item itemvalue="PHP Script.Process.php" />
       </list>
@@ -194,6 +196,11 @@
       <workItem from="1626340069900" duration="3244000" />
       <workItem from="1626344846828" duration="15000" />
       <workItem from="1626344913687" duration="4978000" />
+      <workItem from="1627463984212" duration="1988000" />
+      <workItem from="1627548755397" duration="1787000" />
+      <workItem from="1628844251901" duration="661000" />
+      <workItem from="1629770334379" duration="2392000" />
+      <workItem from="1629796456293" duration="838000" />
     </task>
     <servers />
   </component>

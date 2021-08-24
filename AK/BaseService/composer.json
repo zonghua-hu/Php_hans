@@ -1,0 +1,20 @@
+{
+  "name": "ak/baseService",
+  "description": "ak基础服务",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "hans",
+      "email": "han@gllgleEamil.cn"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "AK\\BaseService": "src/"
+    }
+  }
+}
