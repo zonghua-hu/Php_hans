@@ -20,17 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AK/Container/Container.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/Container/Father.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/Container/Person.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/Container/SingleContainer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/Container/Son.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/Container/TestContainer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Algorithm/Lru.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Algorithm/Test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +196,7 @@
       <workItem from="1634194537924" duration="621000" />
       <workItem from="1634266367050" duration="4499000" />
       <workItem from="1634547616514" duration="772000" />
-      <workItem from="1634638936416" duration="6746000" />
+      <workItem from="1634638936416" duration="7676000" />
     </task>
     <servers />
   </component>

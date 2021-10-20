@@ -1,5 +1,5 @@
 {
-    "name": "hans/design_model",
+    "name": "zonghuahu/hans",
     "description": "this is all Design module of php",
     "type": "library",
     "license": "MIT",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "IOC\\": "src/IOC/"
+            "HansIOC\\": "vendor/hansModel/"
         }
     }
 }
