@@ -1,10 +1,23 @@
 {
-    "name": "vendor/hans",
+    "name": "hans/design_model",
     "description": "this is all Design module of php",
     "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/zonghua-hu/Php_hans",
+    "authors": [
+        {
+            "name": "hans",
+            "email": "1078743005@qq.com"
+        }
+    ],
     "require": {
         "phpunit/phpunit": "^8.0",
-        "swoole/ide-helper": "@dev"
+        "swoole/ide-helper": "@dev",
+        "wazsmwazsm/ioc-container": "^1.1"
     },
-    "license": "www.hans.com"
+    "autoload": {
+        "psr-4": {
+            "IOC\\": "src/IOC/"
+        }
+    }
 }
