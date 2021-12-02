@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/AK/Contract/BaseTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AK/Contract/PersonDto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AK/Contract/Test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
@@ -54,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../trade" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -196,7 +199,13 @@
       <workItem from="1634194537924" duration="621000" />
       <workItem from="1634266367050" duration="4499000" />
       <workItem from="1634547616514" duration="772000" />
-      <workItem from="1634638936416" duration="7676000" />
+      <workItem from="1634638936416" duration="9229000" />
+      <workItem from="1634800754881" duration="18000" />
+      <workItem from="1634801174168" duration="653000" />
+      <workItem from="1634885206305" duration="14000" />
+      <workItem from="1635910069202" duration="694000" />
+      <workItem from="1638409680905" duration="3549000" />
+      <workItem from="1638433604654" duration="2039000" />
     </task>
     <servers />
   </component>
