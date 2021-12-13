@@ -294,8 +294,60 @@ class Algorithm
         return false;
     }
 
+    /**
+     * 模仿A53对数组内元素进行求阶乘组合
+     * @param array $source
+     * @return array
+     */
+    public function arrayFactorialValue($source = [], $split = '+')
+    {
+        $source = $source ?? array('睡前红酒','睡前牛奶','泡脚','右侧睡','换枕头','裸睡');
+        $list = [];
+        for ($i = 1; $i <= count($source); $i++) {
+            $this->combinationNum($i, $source, $list, $split);
+        }
+        return $list;
+    }
 
-
+    /**
+     * @param $num
+     * @param $arrList
+     * @param $list
+     * @param string $split
+     */
+    private function combinationNum($num, $arrList, &$list, $split = '&')
+    {
+        $loop = $num - 2;
+        $count = count($arrList);
+        if ($num < 2) {
+            foreach ($arrList as $item) {
+                array_push($list, $item);
+            }
+        } else {
+            if ($num == $count) {
+                $str = implode($split, $arrList);
+                array_push($list, $str);
+            } else {
+                for ($j = 0; $j <= $count - 1; $j++) {
+                    for ($k = $j + 1; $k <= $count - 1; $k++) {
+                        if ($k + $loop > $count - 1) {
+                            break;
+                        }
+                        if (!$loop) {
+                            $str = $arrList[$j] . $split . $arrList[$k];
+                        } else {
+                            $tmp = [];
+                            for ($h = 0; $h <= $loop; $h++) {
+                                array_push($tmp, $arrList[$k + $h]);
+                            }
+                            $str = $arrList[$j] . $split . join($split, $tmp);
+                        }
+                        array_push($list, $str);
+                    }
+                }
+            }
+        }
+    }
 }
 
 
