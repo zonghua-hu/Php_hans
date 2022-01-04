@@ -18,6 +18,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/Algorithm/DelayQueueRedis.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/Algorithm/TestDelay.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
