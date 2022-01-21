@@ -68,6 +68,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/module/bridge/FormatterInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/bridge/HelloService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/bridge/HttpFormat.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/bridge/PlainFormat.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/bridge/Service.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/bridge/TestBridge.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/module/polymorphism/CatAnimal.php">
           <value>
             <set />
@@ -88,7 +118,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/api/controller/TestController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/order/controller/OrderListController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/owms/worker/logistics/CreateOrdersWorker.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/WarehouseApiLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/base/WarehouseServiceConfigBase.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/bird/RequestBuilder.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/fba/RequestBuilder.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/qxhz/QxhzServiceConfig.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/yld/ActionMap.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/yld/RequestBuilder.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/yld/ResponseBuilder.php">
           <value>
             <set />
           </value>

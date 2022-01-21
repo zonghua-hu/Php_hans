@@ -20,21 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/module/adapter/BookAdapter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/adapter/BookInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/adapter/EBookAdapter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/adapter/EBookInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/adapter/IPaperInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/adapter/Kindle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/adapter/Paper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/adapter/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/polymorphism/Animal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/polymorphism/CatAnimal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/polymorphism/DogAnimal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/polymorphism/Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bridge/FormatterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bridge/HelloService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bridge/HttpFormat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bridge/PlainFormat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bridge/Service.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/bridge/TestBridge.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +66,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -223,6 +218,7 @@
       <workItem from="1641801518707" duration="214000" />
       <workItem from="1642045521758" duration="2349000" />
       <workItem from="1642132571462" duration="192000" />
+      <workItem from="1642730555971" duration="3950000" />
     </task>
     <servers />
   </component>
@@ -240,5 +236,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

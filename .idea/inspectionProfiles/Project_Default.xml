@@ -2,6 +2,7 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="PhpCSValidationInspection" enabled="true" level="SERVER PROBLEM" enabled_by_default="true">
+      <option name="CODING_STANDARD" value="PSR12" />
       <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="SERVER PROBLEM" />
       <option name="EXTENSIONS" value="php,js,css,inc" />
     </inspection_tool>
