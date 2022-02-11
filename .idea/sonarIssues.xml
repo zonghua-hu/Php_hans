@@ -8,6 +8,51 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/AK/ConsistencyHash/ConsistentHash.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AK/ConsistencyHash/MyConsistentHash.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AK/ConsistencyHash/Test.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AK/Contract/BaseTrait.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AK/Contract/PersonDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AK/Contract/Test.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/BaseTrait/PropertyTrait.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/Core/BaseDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/Core/PropertyType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/Algorithm/Algorithm.php">
           <value>
             <set />
@@ -24,6 +69,71 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Composite/FormRender.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Composite/InputElement.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Composite/RenderInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Composite/Test.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Composite/TextElement.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Composte/RenderInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Composte/RenderableInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Composte/read.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/Facade/FacadeClient.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeTwo/FacadePerson.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeTwo/Person.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeTwo/PersonTwo.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeTwo/Test.php">
           <value>
             <set />
           </value>
@@ -123,6 +233,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/api/logic/tool/SelectMaster.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/order/controller/OrderListController.php">
           <value>
             <set />
@@ -134,6 +249,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/WarehouseApiLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/WarehouseServiceProxy.php">
           <value>
             <set />
           </value>
@@ -158,6 +278,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/qxhz/RequestBuilder.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/yld/ActionMap.php">
           <value>
             <set />
@@ -173,7 +298,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/yld/YldService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/storage/logs/error.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/storage/logs/info.log">
           <value>
             <set />
           </value>

@@ -1,7 +1,8 @@
 <?php
 
 namespace Contract;
-use phpDocumentor\Reflection\Types\Boolean;
+
+use BaseTrait\PropertyTrait;
 
 /**
  * @method getName()
@@ -17,7 +18,8 @@ use phpDocumentor\Reflection\Types\Boolean;
  */
 class PersonDto
 {
-    use BaseTrait;
+    use PropertyTrait;
+
     /**
      * 姓名
      * @var string $name

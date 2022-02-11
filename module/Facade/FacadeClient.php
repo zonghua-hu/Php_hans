@@ -9,7 +9,7 @@ class FacadeClient
         $a = 10;
         do {
             $facade->turnOn();
-            $a --;
+            $a--;
         } while ($a == 0);
         $facade->turnOff();
     }
