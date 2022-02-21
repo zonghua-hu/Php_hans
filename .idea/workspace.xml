@@ -20,27 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AK/ConsistencyHash/ConsistentHash.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/ConsistencyHash/MyConsistentHash.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/ConsistencyHash/Test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framark/BaseTrait/PropertyTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framark/Core/BaseDto.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framark/Core/PropertyType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Composite/FormRender.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Composite/InputElement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Composite/RenderInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Composite/Test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Composite/TextElement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Composite/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/FacadeTwo/FacadePerson.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/FacadeTwo/PersonTwo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/FacadeTwo/Test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AK/Contract/BaseTrait.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AK/Contract/PersonDto.php" beforeDir="false" afterPath="$PROJECT_DIR$/AK/Contract/PersonDto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AK/Contract/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/AK/Contract/Test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/Facade/FacadeClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/Facade/FacadeClient.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +214,9 @@
       <workItem from="1643018259423" duration="1682000" />
       <workItem from="1644228485342" duration="3305000" />
       <workItem from="1644306255224" duration="4889000" />
-      <workItem from="1644547199081" duration="3815000" />
+      <workItem from="1644547199081" duration="4003000" />
+      <workItem from="1644995583676" duration="278000" />
+      <workItem from="1644996366292" duration="627000" />
     </task>
     <servers />
   </component>

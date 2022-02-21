@@ -53,6 +53,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Framark/Dto/BaseDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/Algorithm/Algorithm.php">
           <value>
             <set />
@@ -248,7 +253,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseConfig/controller/WareHouseOverseaController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseConfig/dto/DtoFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseConfig/dto/FnskuListDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseConfig/dto/OverseaBaseDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseConfig/dto/ProductType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseConfig/dto/ProductTypeDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/controller/CommonController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/dto/common/GetOwmsProductList.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/dto/common/GetOwmsProductListDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/WarehouseApiLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/workflow/CommonLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/validate/ProductListValidate.php">
           <value>
             <set />
           </value>
