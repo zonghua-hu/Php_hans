@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "HansIOC\\": "vendor/hansModel/"
+            "Php_hans\\": "Php_hans/"
         }
     },
     "repositories": {

@@ -2,27 +2,11 @@
 
 namespace Contract;
 
-use BaseTrait\PropertyTrait;
-
-/**
- * @method getName()
- * @method PersonDto setName(string $val)
- * @method getAge()
- * @method PersonDto setAge(int $val)
- * @method getLike()
- * @method PersonDto setLike(string $val)
- * @method getSex()
- * @method PersonDto setSex(Boolean $val)
- * Class PersonDto
- * @package Contract
- */
-class PersonDto
+trait PersonDto
 {
-    use PropertyTrait;
-
     /**
      * 姓名
-     * @var string $name
+     * @var string
      */
     public $name;
     /**
@@ -31,19 +15,8 @@ class PersonDto
      */
     public $age;
     /**
-     * 爱好
-     * @var string
-     */
-    public $like;
-    /**
      * 性别
      * @var bool
      */
-    public $ses;
-
-    public function create(array $aprams)
-    {
-        return $this->setAge($aprams['age'] ?? 0)
-            ->setSex($aprams['sex'] ?? true);
-    }
+    public $sex;
 }

@@ -28,12 +28,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/AK/Contract/LikeType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/AK/Contract/PersonDto.php">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/AK/Contract/PersonLikeDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/AK/Contract/PersonNewDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/AK/Contract/Test.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/BaseTrait/ArrayAccessTrait.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/BaseTrait/FillDataTrait.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/BaseTrait/PropertyToArrayTrait.php">
           <value>
             <set />
           </value>
@@ -53,7 +83,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Framark/Dto/AbstractFillDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/Dto/AbstractFillable.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Framark/Dto/BaseDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/Dto/PropertyDocParser.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/Dto/PropertyType.php">
           <value>
             <set />
           </value>
@@ -114,6 +164,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/module/Composte/read.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/DataMapper/StorageAdapter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/DataMapper/Test.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/DataMapper/User.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/DataMapper/UserMapper.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/DataMapper/read.me">
           <value>
             <set />
           </value>
@@ -233,6 +308,56 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/tests/DtoTest/DtoTestOne.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/src/BaseTrait/FillDataTrait.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/src/core.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/src/core/BaseDto.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/src/core/PropertyDocParser.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/src/core/PropertyType.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/src/core/core.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/vendor/composer/autoload_psr4.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../transfer/vendor/composer/autoload_static.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/api/controller/TestController.php">
           <value>
             <set />
@@ -243,12 +368,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/order/common/FbaFulfillmentOrderTrait.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/order/controller/OrderListController.php">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/order/logic/fba/FbaFulfillmentOrderLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/order/logic/orderList/FbaOutBoundShipmentLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/owms/worker/logistics/CreateOrdersWorker.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/product/apiForModule/ProductApi.php">
           <value>
             <set />
           </value>
@@ -318,6 +463,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/base/WarehouseServiceBase.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/base/WarehouseServiceConfigBase.php">
           <value>
             <set />
@@ -328,7 +478,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/fba/ApiClient.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/fba/FbaService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/fba/RequestBuilder.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/fba/ResponseBuilder.php">
           <value>
             <set />
           </value>
@@ -359,6 +524,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/yld/YldService.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/refactoring/ProxyWareHouse.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/refactoring/WareHouseEnums.php">
           <value>
             <set />
           </value>

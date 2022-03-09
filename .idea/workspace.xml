@@ -20,8 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/AK/Contract/LikeType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AK/Contract/PersonLikeDto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AK/Contract/PersonNewDto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framark/BaseTrait/ArrayAccessTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framark/BaseTrait/FillDataTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framark/BaseTrait/PropertyToArrayTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framark/Dto/PropertyDocParser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framark/Dto/PropertyType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/DataMapper/StorageAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/DataMapper/Test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/DataMapper/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/DataMapper/UserMapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/DataMapper/read.me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/DtoTest/DtoTestOne.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AK/Contract/PersonDto.php" beforeDir="false" afterPath="$PROJECT_DIR$/AK/Contract/PersonDto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AK/Contract/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/AK/Contract/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framark/BaseTrait/PropertyTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framark/Core/BaseDto.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framark/Core/PropertyType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framark/Dto/BaseDto.php" beforeDir="false" afterPath="$PROJECT_DIR$/Framark/Dto/BaseDto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +79,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -75,7 +96,11 @@
       <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.DecoratorClient.php">
+  <component name="RunManager" selected="PHPUnit.DtoTestOne.testOne">
+    <configuration name="DtoTestOne.testOne" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="tests\DtoTest\DtoTestOne" file="$PROJECT_DIR$/tests/DtoTest/DtoTestOne.php" method="testOne" scope="Method" />
+      <method v="2" />
+    </configuration>
     <configuration name="DecoratorClient.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/module/Decorator/DecoratorClient.php">
       <method v="2" />
     </configuration>
@@ -87,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.DtoTestOne.testOne" />
         <item itemvalue="PHP Script.DecoratorClient.php" />
         <item itemvalue="PHP Script.client.php" />
         <item itemvalue="PHP Script.Process.php" />
@@ -217,6 +243,10 @@
       <workItem from="1644547199081" duration="4003000" />
       <workItem from="1644995583676" duration="278000" />
       <workItem from="1644996366292" duration="627000" />
+      <workItem from="1645425789972" duration="281000" />
+      <workItem from="1645438224819" duration="1441000" />
+      <workItem from="1646032838437" duration="873000" />
+      <workItem from="1646812679702" duration="5328000" />
     </task>
     <servers />
   </component>
