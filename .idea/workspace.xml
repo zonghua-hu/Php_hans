@@ -20,29 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/AK/Contract/LikeType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/Contract/PersonLikeDto.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AK/Contract/PersonNewDto.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framark/BaseTrait/ArrayAccessTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framark/BaseTrait/FillDataTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framark/BaseTrait/PropertyToArrayTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framark/Dto/PropertyDocParser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Framark/Dto/PropertyType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/DataMapper/StorageAdapter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/DataMapper/Test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/DataMapper/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/DataMapper/UserMapper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/DataMapper/read.me" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/DtoTest/DtoTestOne.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AK/Contract/PersonDto.php" beforeDir="false" afterPath="$PROJECT_DIR$/AK/Contract/PersonDto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AK/Contract/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/AK/Contract/Test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framark/BaseTrait/PropertyTrait.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framark/Core/BaseDto.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framark/Core/PropertyType.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framark/Dto/BaseDto.php" beforeDir="false" afterPath="$PROJECT_DIR$/Framark/Dto/BaseDto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,7 +225,10 @@
       <workItem from="1645425789972" duration="281000" />
       <workItem from="1645438224819" duration="1441000" />
       <workItem from="1646032838437" duration="873000" />
-      <workItem from="1646812679702" duration="5328000" />
+      <workItem from="1646812679702" duration="5627000" />
+      <workItem from="1646824531592" duration="1245000" />
+      <workItem from="1646826024773" duration="113000" />
+      <workItem from="1648111792067" duration="50000" />
     </task>
     <servers />
   </component>
