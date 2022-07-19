@@ -348,6 +348,32 @@ class Algorithm
             }
         }
     }
+
+    /**
+     * 漏桶算法
+     * @param int $container
+     * @param int $requestNumber
+     * @param int $rate
+     * @param int $water
+     * @param int $time
+     * @return bool
+     */
+    public function limitRate(int $container, int $requestNumber, int $rate, int &$time, int &$water = 0): bool
+    {
+        $water = empty($water) ? 0 : $water;
+        $time = empty($time) ? time() : $time;
+        $currentTime = time();
+        $leakWater = ($currentTime - $time) * $rate;
+        $water = $water - $leakWater;
+        $water = $water > 0 ? $water : 0;
+        $time = $currentTime;
+        if (($water + $requestNumber) <= $container) {
+            $water += $requestNumber;
+            return true;
+        } else {
+            return false;
+        }
+    }
 }
 
 

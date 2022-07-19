@@ -5,7 +5,6 @@
  * Date: 2019/3/22
  * Time: 16:44
  */
-
 class FactoryOpera
 {
     public static $operation = '';

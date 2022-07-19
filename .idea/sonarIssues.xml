@@ -58,6 +58,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Framark/BaseTrait/BaseFactoryTrait.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Framark/BaseTrait/FillDataTrait.php">
           <value>
             <set />
@@ -69,6 +74,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Framark/BaseTrait/PropertyTrait.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/CircuitBreaker/BaseCircuitBreaker.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/CircuitBreaker/CircuitBreakException.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/CircuitBreaker/CircuitBreaker.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/CircuitBreaker/CircuitBreakerInterface.php">
           <value>
             <set />
           </value>
@@ -108,12 +133,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Framark/factory/BaseFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/factory/ExampleFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Framark/factory/ExplameFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeeCode/LeeCodeClass.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeeCode/NoAddCalculate.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LeeCode/Test.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/Algorithm/Algorithm.php">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/Algorithm/DelayQueueRedis.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/Algorithm/Test.php">
           <value>
             <set />
           </value>
@@ -288,6 +348,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/module/module1/FactoryOpera.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/observer/SplObserver.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/observer/UserObserver.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/module/polymorphism/CatAnimal.php">
           <value>
             <set />
@@ -433,12 +508,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/api/controller/TestController.php">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/api/logic/FbaReportLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/api/logic/tool/SelectMaster.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/config.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/framework/library/HttpHelper.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/asyncTask/config/AsyncTaskRegisterConfig.php">
           <value>
             <set />
           </value>
@@ -473,6 +573,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/purchase1688/logic/Purchase1688AccountLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseConfig/controller/WareHouseOverseaController.php">
           <value>
             <set />
@@ -503,7 +608,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/apiForInternal/InboundApiForInternal.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/asyncTask/AuditAsyncTask.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/controller/CommonController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/controller/WorkflowController.php">
           <value>
             <set />
           </value>
@@ -523,7 +643,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/createInbound/AbstractCreateInbound.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/createInbound/AbstructCreateInbound.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/createInbound/CreateInboundFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/createInbound/CreateInboundInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/createInbound/FinishCreateInbound.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/api/createInbound/SendCreateInbound.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/customs/service/message/AbstractMessage.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/workflow/AbstractLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/workflow/AuditLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/workflow/CommonLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/workflow/FinishLogic.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseOversea/logic/workflow/InboundCostLogic.php">
           <value>
             <set />
           </value>
@@ -573,6 +748,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/octopus/strategyReturn/SuccessResult.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/warehouseService/service/provider/qxhz/QxhzServiceConfig.php">
           <value>
             <set />
@@ -613,12 +793,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/storage/logs/access.log">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../ymserp/storage/logs/error.log">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ymserp/storage/logs/info.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/storage/logs/info_cli.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/storage/logs/worker_debug_cli.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/storage/logs/worker_info_cli.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/storage/logs/worker_notice_cli.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/storage/logs/worker_sql_cli.log">
           <value>
             <set />
           </value>

@@ -13,7 +13,7 @@
     "require": {
         "phpunit/phpunit": "^7.0",
         "swoole/ide-helper": "@dev",
-        "wazsmwazsm/ioc-container": "^1.1",
+        "guzzlehttp/guzzle": "6.3.3",
         "ext-http": "*",
         "ext-redis": "*",
         "ext-json": "*"
@@ -23,10 +23,11 @@
             "Php_hans\\": "Php_hans/"
         }
     },
+
     "repositories": {
         "packagist": {
             "type": "composer",
-            "url": "https://packagist.laravel-china.org"
+            "url": "https://packagist.phpcomposer.com"
         }
     }
 }

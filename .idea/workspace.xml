@@ -20,8 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Framark/BaseTrait/BaseFactoryTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framark/factory/BaseFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeeCode/LeeCodeClass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeeCode/Test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Algorithm/Algorithm.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Algorithm/Algorithm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Algorithm/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Algorithm/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/module1/FactoryOpera.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/module1/FactoryOpera.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,6 +238,16 @@
       <workItem from="1646824531592" duration="1245000" />
       <workItem from="1646826024773" duration="113000" />
       <workItem from="1648111792067" duration="50000" />
+      <workItem from="1648111932367" duration="28000" />
+      <workItem from="1648449796923" duration="2175000" />
+      <workItem from="1648538452918" duration="3399000" />
+      <workItem from="1650965613473" duration="777000" />
+      <workItem from="1650966891027" duration="15000" />
+      <workItem from="1650966965734" duration="5510000" />
+      <workItem from="1651139864981" duration="1635000" />
+      <workItem from="1652268827875" duration="1093000" />
+      <workItem from="1657163820352" duration="2270000" />
+      <workItem from="1658196404131" duration="297000" />
     </task>
     <servers />
   </component>
