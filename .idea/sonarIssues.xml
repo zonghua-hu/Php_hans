@@ -258,6 +258,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeThree/ComputerFacade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeThree/ElectricBrake.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeThree/ElectricBrakeFacade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeThree/FridgeFacade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeThree/TelevisionFacade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/module/FacadeThree/TestFacadeThree.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/module/FacadeTwo/FacadePerson.php">
           <value>
             <set />
@@ -539,6 +569,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ymserp/application/module/asyncTask/config/AsyncTaskRegisterConfig.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/inventoryReceipt/apiForInternal/InboundApiForInternal.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ymserp/application/module/inventoryReceipt/controller/StorageAllocationController.php">
           <value>
             <set />
           </value>
