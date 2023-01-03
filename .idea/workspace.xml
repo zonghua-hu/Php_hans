@@ -20,14 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Framark/Core/App.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/proxy/Record.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/proxy/RecordProxy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/proxy/TextProxy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/proxy/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/proxyTwo/read.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Builder/AssemblerBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Builder/Computer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Builder/ComputerInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Builder/Demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Builder/Director.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Entrust/EntrustDemo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Entrust/EntrustFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Entrust/InterfaceEntrust.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Entrust/SendEmail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Entrust/SendLeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Entrust/SendSms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Entrust/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Observer/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Observer/UserObserver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/Composite/InputElement.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/Composite/InputElement.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +52,7 @@
       <list>
         <option value="tsconfig.json" />
         <option value="HTML File" />
+        <option value="composer.json" />
       </list>
     </option>
   </component>
@@ -60,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -69,11 +79,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dnmp\www\Php_hans\module" />
       <recent name="$PROJECT_DIR$/module/ElasticSearch" />
       <recent name="$PROJECT_DIR$/module" />
       <recent name="E:\WeDocker\sites\Php_hans\public\js" />
       <recent name="E:\WeDocker\sites\Php_hans\module\module2" />
-      <recent name="E:\WeDocker\sites\Php_hans\public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Project\TestRoot\Php_hans\module\generator" />
@@ -251,6 +261,28 @@
       <workItem from="1659430079573" duration="1872000" />
       <workItem from="1659437944457" duration="1228000" />
       <workItem from="1660039670009" duration="159000" />
+      <workItem from="1661511781298" duration="15000" />
+      <workItem from="1661511804617" duration="1707000" />
+      <workItem from="1661513539987" duration="155000" />
+      <workItem from="1661513809737" duration="242000" />
+      <workItem from="1661859117911" duration="525000" />
+      <workItem from="1661917883777" duration="1770000" />
+      <workItem from="1662103641440" duration="641000" />
+      <workItem from="1662104310142" duration="321000" />
+      <workItem from="1662711154751" duration="661000" />
+      <workItem from="1663656687913" duration="674000" />
+      <workItem from="1663676383730" duration="31000" />
+      <workItem from="1665986750936" duration="1182000" />
+      <workItem from="1665995079539" duration="18000" />
+      <workItem from="1667635882653" duration="626000" />
+      <workItem from="1667788368653" duration="92000" />
+      <workItem from="1667789844668" duration="822000" />
+      <workItem from="1668148573654" duration="643000" />
+      <workItem from="1669202767492" duration="1398000" />
+      <workItem from="1669703378704" duration="478000" />
+      <workItem from="1670034550556" duration="63000" />
+      <workItem from="1672293573193" duration="556000" />
+      <workItem from="1672711138898" duration="3734000" />
     </task>
     <servers />
   </component>
