@@ -20,23 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/module/Builder/AssemblerBuilder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Builder/Computer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Builder/ComputerInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Builder/Demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Builder/Director.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Entrust/EntrustDemo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Entrust/EntrustFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Entrust/InterfaceEntrust.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Entrust/SendEmail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Entrust/SendLeader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Entrust/SendSms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Entrust/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Observer/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Observer/UserObserver.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/Context.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/CouponDiscountInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/DefaultDiscountAmount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/Demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/DiscountEnums.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/DiscountFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/FullDiscountAmount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/PriceDiscountAmount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Strategy/ZeroDiscountAmount.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/Composite/InputElement.php" beforeDir="false" afterPath="$PROJECT_DIR$/module/Composite/InputElement.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -282,7 +276,12 @@
       <workItem from="1669703378704" duration="478000" />
       <workItem from="1670034550556" duration="63000" />
       <workItem from="1672293573193" duration="556000" />
-      <workItem from="1672711138898" duration="3734000" />
+      <workItem from="1672711138898" duration="4162000" />
+      <workItem from="1676539217171" duration="276000" />
+      <workItem from="1677135526783" duration="424000" />
+      <workItem from="1677486783888" duration="621000" />
+      <workItem from="1678153747526" duration="1112000" />
+      <workItem from="1678160003691" duration="1099000" />
     </task>
     <servers />
   </component>
