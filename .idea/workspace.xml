@@ -20,17 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40d9fe70-6fca-43a0-96f8-1c28bf1cf1e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/module/Strategy/Context.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/CouponDiscountInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/DefaultDiscountAmount.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/Demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/DiscountEnums.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/DiscountFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/FullDiscountAmount.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/PriceDiscountAmount.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module/Strategy/ZeroDiscountAmount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsibility/AccountMoneyHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsibility/Demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsibility/DiscountHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsibility/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsibility/SensitiveWordsHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module/Responsibility/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/Responsiby/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/Responsiby/RequireHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/Responsiby/SlowMysqlHandler.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +280,15 @@
       <workItem from="1677135526783" duration="424000" />
       <workItem from="1677486783888" duration="621000" />
       <workItem from="1678153747526" duration="1112000" />
-      <workItem from="1678160003691" duration="1099000" />
+      <workItem from="1678160003691" duration="2457000" />
+      <workItem from="1680775795713" duration="159000" />
+      <workItem from="1681283334259" duration="1322000" />
+      <workItem from="1681348333004" duration="1254000" />
+      <workItem from="1682410916064" duration="2014000" />
+      <workItem from="1682413512904" duration="715000" />
+      <workItem from="1682558866798" duration="639000" />
+      <workItem from="1683697362274" duration="651000" />
+      <workItem from="1687767460283" duration="1115000" />
     </task>
     <servers />
   </component>
